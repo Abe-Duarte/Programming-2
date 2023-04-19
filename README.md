@@ -1,2 +1,2 @@
-# Programming-2
-Repository of Java Projects made in Programming 2
+<h2>Programming 02 (Java) Repository</h2>
+<p>This repository serves as a directory for all the Java projects built for my classes of Java and OOP</p>
